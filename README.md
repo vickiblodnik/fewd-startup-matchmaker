@@ -1,2 +1,2 @@
-# Homework Assignmment #4 - Startup Matchmaker
+# Homework Assignmment #4
 ## fewd-startup-matchmaker
