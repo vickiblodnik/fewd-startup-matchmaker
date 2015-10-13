@@ -1,0 +1,166 @@
+* { font-family: futura}
+
+
+
+header { 
+    width: 960px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #000;
+
+    }
+
+ h1 { 
+      color: fff000;
+      padding: 20px;
+    }   
+
+.nav1 { 
+      margin-right: 40px;
+      text-align: right;
+      margin-top: -30;
+      color:ffffff;
+      font-size: 15;
+
+    }
+
+#yellow {
+    width: 960px;
+    height: 5px;
+    margin: 0 auto;
+    background-color: #fff000;
+         
+}
+
+#graybar { 
+    width: 960px;
+    height: 75px;
+    margin: 0 auto;
+    background-color: #d3d3d3;
+    overflow: auto;
+    text-align: center;
+
+    }
+
+#taste {
+  color: #ededed;
+  text-decoration: line-through;
+  text-decoration-color: #d3d3d3;
+
+}
+
+#are {
+  text-decoration: underline;
+  text-decoration-color: #fff000;
+
+}
+
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;
+}
+
+
+
+
+
+section { 
+    font-family: helvetica;
+    width: 960px;
+    height: 500px;
+    margin: 0 auto;
+    overflow: auto;
+    background: url(../images/coworking.jpg) no-repeat center top
+}
+
+#button2 {  
+    width: 250px;
+    height: 40px;
+    background-color: fff000;
+    margin-top: 100px;
+    margin-left: 25px;
+  }
+
+.box {
+  /*opacity: .7;*/
+  width: 300px;
+  height: 400px;
+  background-color: #ffffff;
+  margin-top: 50px;
+  margin-left:650px;
+
+}
+
+
+p {
+  color: #000;
+  padding: 15px;
+  margin-top: -50px;
+
+}
+
+h4 {
+    color: #000;
+    padding: 15px;
+    font-size: 24;
+
+}
+
+.bottom1 {
+  width: 240px;
+  height: 240px;
+  background-color: #fff;
+    float: left;
+}
+
+h5 {
+    color: #000;
+    padding: 15px;
+    font-size: 24;
+
+}
+
+.bottom2{
+   width: 240px;
+  height: 240px;
+  background-color: #fff;
+  float: left;
+}
+
+  .bottom3{
+   width: 240px;
+  height: 240px;
+  background-color: #fff;
+  float: left;
+
+}
+
+#bottombutton1 {  
+    width: 200px;
+    height: 30px;
+    background-color: #ececec;
+    position: center;
+    font-size: 15;
+    margin-bottom: 30px;
+  }
+
+#bottombutton2 {  
+    width: 200px;
+    height: 30px;
+    background-color: #ececec;
+    position: center;
+    font-size: 15;
+    margin-bottom: 30px;
+  }
+
+#bottombutton3 {  
+    width: 200px;
+    height: 30px;
+    background-color: #ececec;
+    position: center;
+    font-size: 15;
+    margin-bottom: 30px;
+  }
+
