@@ -68,8 +68,8 @@ a:visited{
 
 section { 
     font-family: helvetica;
-    width: 960px;
-    height: 500px;
+ /*   width: 960px;
+    height: 500px;*/
     margin: 0 auto;
     overflow: auto;
     background: url(../images/coworking.jpg) no-repeat center top
